@@ -1,0 +1,151 @@
+div
+{
+    background-color:#f3e1e1;
+    position:relative;
+    padding-top: 2;
+}
+body{
+    margin-left: 0px;
+    margin-top: 0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    margin:0 auto 0 auto;
+    width:10%;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    margin-top:50px auto 0 auto;
+    color:#e84a5f;
+    
+}
+.bottom-cloud
+{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+.top-cloud
+{
+    position:absolute;
+    right:200px;
+    top:50px;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.C
+{
+    height:150px;
+    width:150px;
+    
+}
+#x
+{
+    font-size: 2.5rem;
+    color:#e84a5f;
+    font-weight:normal;
+    margin-top:0px;
+
+}
+.up
+{
+    line-height: :2;
+    
+
+
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    background-color: white;
+    
+}
+.profile
+{
+    
+    border-top-width: 0px;
+    padding-top: 0px;
+    
+
+
+}
+h2{
+    color:#e84a5f;
+}
+.skills
+{
+    background-color: white;
+
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width:20%;
+    color:lightslategray;
+    border: dotted;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.middle-container
+{
+    background-color: white;
+}
+.contact-me
+{
+    background-color: white;
+}
+.profile
+{
+    background-color: white;
+}
+.myButton {
+	box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:15px 25px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #b23e35;
+    margin:20px auto 50px auto;
+}
+.myButton:hover {
+	background-color:#eb675e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container
+{
+    padding: 50px auto 50px auto;
+}
+a
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a:hover
+{
+    color:white;
+}
+.copyright
+{
+    color:#e84a5f;
+    
+}
